@@ -2,7 +2,7 @@
 
 This script using to discover XSS attacks in forms and urls.
 
-Our script get all links in the website then testing discover forms and testing there forms and urls.
+Our script get all links in the website, discover forms and testing forms and urls.
 
 # Web Script
 
